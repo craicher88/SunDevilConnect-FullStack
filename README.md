@@ -111,37 +111,53 @@ Administrators can:
 
 ## Application Screenshots
 
-### Login
+## Application Screenshots
 
-Users authenticate through a common login page and are routed to the
-appropriate dashboard based on their role.
+### Login and Role-Based Access
 
-![SunDevilConnect login](assets/screenshots/login.png)
+Users authenticate through a shared login interface and are routed to
+role-specific dashboards based on their account type.
 
-### Student Dashboard
-
-The student dashboard centralizes club memberships, event registrations,
-notifications, club requests, and other student-specific activity.
-
-![SunDevilConnect student dashboard](assets/screenshots/student-dashboard.png)
-
-<!--
-### Officer Dashboard
-
-![SunDevilConnect officer dashboard](assets/screenshots/officer-dashboard.png)
-
-### Administrator Dashboard
-
-![SunDevilConnect administrator dashboard](assets/screenshots/admin-dashboard.png)
-
-### Event Discovery
-
-![SunDevilConnect event discovery](assets/screenshots/events.png)
+![SunDevilConnect login](assets/screenshots/Login.png)
 
 ### Club Discovery
 
-![SunDevilConnect club discovery](assets/screenshots/clubs.png)
--->
+Users can browse available clubs and review their category, description,
+location, and membership status.
+
+![SunDevilConnect club browser](assets/screenshots/AllClubs.png)
+
+### Event Discovery
+
+The shared event browser allows users to review upcoming events and sort them
+by criteria such as date.
+
+![SunDevilConnect event browser](assets/screenshots/AllEvents.png)
+
+### Student Experience
+
+Students can manage their club memberships from a personalized dashboard.
+
+![SunDevilConnect student club dashboard](assets/screenshots/Student-MyClubs.png)
+
+### Officer Experience
+
+Club officers can create, edit, and cancel events associated with their
+organization.
+
+![SunDevilConnect officer event management](assets/screenshots/Officer-MyEvents.png)
+
+Officers can also review incoming club membership requests and approve or deny
+them.
+
+![SunDevilConnect officer membership requests](assets/screenshots/Officer-MemberRequests.png)
+
+### Administrator Experience
+
+Administrators have broader system oversight, including review and management
+of content reported by users.
+
+![SunDevilConnect flagged content administration](assets/screenshots/Admin-FlaggedContent.png)
 
 ## Software Design
 
