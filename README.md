@@ -118,46 +118,46 @@ Administrators can:
 Users authenticate through a shared login interface and are routed to
 role-specific dashboards based on their account type.
 
-![SunDevilConnect login](assets/screenshots/Login.png)
+![SunDevilConnect login](assets/Login.png)
 
 ### Club Discovery
 
 Users can browse available clubs and review their category, description,
 location, and membership status.
 
-![SunDevilConnect club browser](assets/screenshots/AllClubs.png)
+![SunDevilConnect club browser](assets/AllClubs.png)
 
 ### Event Discovery
 
 The shared event browser allows users to review upcoming events and sort them
 by criteria such as date.
 
-![SunDevilConnect event browser](assets/screenshots/AllEvents.png)
+![SunDevilConnect event browser](assets/AllEvents.png)
 
 ### Student Experience
 
 Students can manage their club memberships from a personalized dashboard.
 
-![SunDevilConnect student club dashboard](assets/screenshots/Student-MyClubs.png)
+![SunDevilConnect student club dashboard](assets/Student-MyClubs.png)
 
 ### Officer Experience
 
 Club officers can create, edit, and cancel events associated with their
 organization.
 
-![SunDevilConnect officer event management](assets/screenshots/Officer-MyEvents.png)
+![SunDevilConnect officer event management](assets/Officer-MyEvents.png)
 
 Officers can also review incoming club membership requests and approve or deny
 them.
 
-![SunDevilConnect officer membership requests](assets/screenshots/Officer-MemberRequests.png)
+![SunDevilConnect officer membership requests](assets/Officer-MemberRequests.png)
 
 ### Administrator Experience
 
 Administrators have broader system oversight, including review and management
 of content reported by users.
 
-![SunDevilConnect flagged content administration](assets/screenshots/Admin-FlaggedContent.png)
+![SunDevilConnect flagged content administration](assets/Admin-FlaggedContent.png)
 
 ## Software Design
 
