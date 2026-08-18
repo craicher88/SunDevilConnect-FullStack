@@ -111,8 +111,6 @@ Administrators can:
 
 ## Application Screenshots
 
-## Application Screenshots
-
 ### Login and Role-Based Access
 
 Users authenticate through a shared login interface and are routed to
